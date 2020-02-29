@@ -10,5 +10,5 @@ The idea came from playing the game Unblock Me and the board game Rush Hour. I w
 
 *Things I would like to add to the game:* 
  - Different game modes, currently only have casual/standard
-  -- Mode where the goal is to clear the path in the shortes time.
-  -- Mode where the goal is to clear the path with minimal moves.
+  - Mode where the goal is to clear the path in the shortes time.
+  - Mode where the goal is to clear the path with minimal moves.
