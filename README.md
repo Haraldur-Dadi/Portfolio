@@ -8,7 +8,7 @@ The aim of the project is to get more familiar with the game engine and to progr
 
 The idea came from playing the game Unblock Me and the board game Rush Hour. I wanted to create a unique theme and from experiencing/watching what happens when an emergency vehicle needs to go through traffic. They turn on the siren and lights and everyone give way for the vehicle to pass. And with that in mind the goal of every level is to clear the path for the emergency vehicle to pass through.  
 
-![](/docs/CarParkMania_video.gif)
+<img src="/docs/CarParkMania_video.gif" height="150">
 
 *Things I would like to add to the game:* 
  - Different game modes, currently only have casual/standard
