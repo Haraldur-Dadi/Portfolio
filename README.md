@@ -29,7 +29,7 @@ The aim of the project was to get familiar with mobile game development and of c
 
 The idea came from scrolling through the app store taking a look at what the big video game companies were doing. Most of the games had a pretty simple goal and a fairly easy game mechanichs that are easy to pick up. Then I remembered a game that I used to play when I was younger called Pinball. The game mechanics are pretty simple to pick up and the goal is simple, but it can create frustration that you don't have full control of where the ball goes.  
 
-*Game mechanics*
+*Game mechanics*  
 The goal is to score as many points in a level as possible. Score is gained from hitting obstaccles. You select where you want to drop the ball by pressing and moving your finger. To drop the ball you let go. At that point you can tilt your phone left and right to try and control the ball.
 
 *Short gif from the game*  
