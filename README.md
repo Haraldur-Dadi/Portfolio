@@ -69,7 +69,7 @@ The game is a mobile rpg game where you play as a knight that has been tasked wi
 User has buttons to control his movement and attack or block. There's a quick access bar at the bottom used for qunsumables and spells/skills.
 
 *Short gif from the game*  
-
+<img src="/docs/Knights2D_video.gif" height="400">
 
 *Things I would like to add to the game*  
 - Most of the world has not been developped and that's a good place to start
