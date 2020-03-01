@@ -63,16 +63,23 @@ link to github repo: https://github.com/Haraldur-Dadi/PinballFall
 *About*  
 This was the first game that I made where I tried creating something that I wanted to play myself. The idea came from playing rpg games and I really thought that there was something missing for mobile. The first idea was ofcourse a game that was both 3D and multiplayer, but since I didn't have the knowledge and time to do either of those I had to settle on doing 2D and single-player. Altough not my first choice I thought that it brought something of a unique element to it.
 
-The game is a mobile rpg game where you play as a knight that has been tasked with banishing evil from the lands. The player goes on quests, combating enemies, looting and everything that comes with a 'classic' rpg game.
+The game is a mobile rpg game where you play as a knight that has been tasked with banishing evil from the lands. The player goes on quests, leveling, combating enemies, looting and everything that comes with a 'classic' rpg game.
 
 *Game mechanics*  
-
+User has buttons to control his movement and attack or block. There's a quick access bar at the bottom used for qunsumables and spells/skills.
 
 *Short gif from the game*  
 
+
 *Things I would like to add to the game*  
+- Most of the world has not been developped and that's a good place to start
+- Spells/skills have not been implemented
+- Create more monsters
+- Create a loot table
+- and many more
 
 *Game development*  
+The game was made over the summer of 2018. I kind of got a little bit overwhelmed with the project and really didn't see an endpoint with it. This got me a little discouraged and after a little while I started to realise that what I had planned was quite a big project and was in need of more knowledge of the game engine to continue development. It ended up being shelved but could be an interesting project to return to in a few years time when I might be at the point where I could finally see it through. 
 
 ## My first project  
 *About*  
