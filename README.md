@@ -20,6 +20,7 @@ The idea came from playing the game Unblock Me and the board game Rush Hour. I w
  - Different game modes, currently only have casual/standard  
   - Mode where the goal is to clear the path in the shortes time.  
   - Mode where the goal is to clear the path with minimal moves.  
+
 link to github repo: https://github.com/Haraldur-Dadi/CarParkMania
   
 ### PinballFall
