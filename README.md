@@ -16,7 +16,12 @@ The idea came from playing the game Unblock Me and the board game Rush Hour. I w
 - Levels
 - Redo/undo/reset feature (not shown in gif)
 
-*Things I would like to add to the game:* 
- - Different game modes, currently only have casual/standard
-  - Mode where the goal is to clear the path in the shortes time.
-  - Mode where the goal is to clear the path with minimal moves.
+*Things I would like to add to the game:*  
+ - Different game modes, currently only have casual/standard  
+  - Mode where the goal is to clear the path in the shortes time.  
+  - Mode where the goal is to clear the path with minimal moves.  
+link to github repo: https://github.com/Haraldur-Dadi/CarParkMania
+  
+### PinballFall
+
+link to github repo: https://github.com/Haraldur-Dadi/PinballFall
