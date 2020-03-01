@@ -78,4 +78,4 @@ The game is a mobile rpg game where you play as a knight that has been tasked wi
 *About*  
 
 *Short gif from the game*  
-<img src="My_first_game_video.gif" height="400">
+<img src="/docs/My_first_game_video.gif" height="400">
