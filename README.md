@@ -76,6 +76,7 @@ User has buttons to control his movement and attack or block. There's a quick ac
 - Spells/skills have not been implemented
 - Create more monsters
 - Create a loot table
+- Save/load system
 - and many more
 
 *Game development*  
