@@ -34,11 +34,11 @@ The idea came from scrolling through the app store taking a look at what the big
 
 *Things I would like to add to the game*  
  - Arcade mode  
- -- fx. play the pinball game, using current game mechanics of having full control over the ball  
+  - fx. play the pinball game, using current game mechanics of having full control over the ball  
  - Difficulty  
- -- fx. Easy, Medium, Hard, Expert  
+  - fx. Easy, Medium, Hard, Expert  
  - Post processing  
- -- Make the game look nicer  
+  - Make the game look nicer  
 
 *Game development*  
 The process was made over 2 week period in 2019. I got the game to a position where there was not much left to do, mostly what was left was to clean things up and create levels. I didn't have a good reason to finish the game as I didn't have a place to publish it. This might be a project I might pick up sometime in the future and finish.
