@@ -24,15 +24,15 @@ The idea came from playing the game Unblock Me and the board game Rush Hour. I w
 link to github repo: https://github.com/Haraldur-Dadi/CarParkMania
   
 ### PinballFall
-*About*
+*About*  
 The aim of the project was to get familiar with mobile game development and of course progress my skils.  
 
 The idea came from scrolling through the app store taking a look at what the big video game companies were doing. Most of the games had a pretty simple goal and a fairly easy game mechanichs that are easy to pick up. Then I remembered a game that I used to play when I was younger called Pinball. The game mechanics are pretty simple to pick up and the goal is simple, but it can create frustration that you don't have full control of where the ball goes.  
 
-*Short gif from the game*
+*Short gif from the game*  
 <img src="/docs/PinballFall_video.gif" height="400">
 
-*Things I would like to add to the game*
+*Things I would like to add to the game*  
  - Arcade mode
  -- fx. play the pinball game, using current game mechanics of having full control over the ball
  - Difficulty
@@ -40,7 +40,7 @@ The idea came from scrolling through the app store taking a look at what the big
  - Post processing
  -- Make the game look nicer
 
-*Game development*
+*Game development*  
 The process was made over 2 week period in 2019. I got the game to a position where there was not much left to do, mostly what was left was to clean things up and create levels. I didn't have a good reason to finish the game as I didn't have a place to publish it. This might be a project I might pick up sometime in the future and finish.
 
 link to github repo: https://github.com/Haraldur-Dadi/PinballFall
