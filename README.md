@@ -29,7 +29,7 @@ The aim of the project was to get familiar with mobile game development and of c
 
 The idea came from scrolling through the app store taking a look at what the big video game companies were doing. Most of the games had a pretty simple goal and a fairly easy game mechanichs that are easy to pick up. Then I remembered a game that I used to play when I was younger called Pinball. The game mechanics are pretty simple to pick up and the goal is simple, but it can create frustration that you don't have full control of where the ball goes.  
 
-*Game mechanics*
+*Game mechanics*  
 The goal is to score as many points in a level as possible. Score is gained from hitting obstaccles. You select where you want to drop the ball by pressing and moving your finger. To drop the ball you let go. At that point you can tilt your phone left and right to try and control the ball.
 
 *Short gif from the game*  
@@ -47,3 +47,35 @@ The goal is to score as many points in a level as possible. Score is gained from
 The process was made over 2 week period in 2019. I got the game to a position where there was not much left to do, mostly what was left was to clean things up and create levels. I didn't have a good reason to finish the game as I didn't have a place to publish it. This might be a project I might pick up sometime in the future and finish.
 
 link to github repo: https://github.com/Haraldur-Dadi/PinballFall
+
+## Island Adventures
+*About*  
+
+*Game mechanics*  
+
+*Short gif from the game*  
+
+*Thing I would like to add to the game  
+
+*Game development*  
+
+## Knights2D  
+*About*  
+This was the first game that I made where I tried creating something that I wanted to play myself. The idea came from playing rpg games and I really thought that there was something missing for mobile. The first idea was ofcourse a game that was both 3D and multiplayer, but since I didn't have the knowledge and time to do either of those I had to settle on doing 2D and single-player. Altough not my first choice I thought that it brought something of a unique element to it.
+
+The game is a mobile rpg game where you play as a knight that has been tasked with banishing evil from the lands. The player goes on quests, combating enemies, looting and everything that comes with a 'classic' rpg game.
+
+*Game mechanics*  
+
+
+*Short gif from the game*  
+
+*Things I would like to add to the game*  
+
+*Game development*  
+
+## My first project  
+*About*  
+
+*Short gif from the game*  
+<img src="My_first_game_video.gif" height="400">
