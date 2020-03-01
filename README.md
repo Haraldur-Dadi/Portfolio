@@ -14,7 +14,7 @@ The idea came from playing the game Unblock Me and the board game Rush Hour. I w
 - Level selector
 - Tutorial
 - Levels
-- Redo/undo/reset feature
+- Redo/undo/reset feature (not shown in gif)
 
 *Things I would like to add to the game:* 
  - Different game modes, currently only have casual/standard
