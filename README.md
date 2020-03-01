@@ -58,3 +58,19 @@ link to github repo: https://github.com/Haraldur-Dadi/PinballFall
 *Things I would like to add to the game*  
 
 *Game development*  
+
+## Unique3D
+*About*  
+
+*Game mechanics*  
+
+*Short gif from the game*  
+
+*Thing I would like to add to the game  
+
+*Game development*  
+
+## My first project  
+*About*  
+
+*Short gif from the game*  
