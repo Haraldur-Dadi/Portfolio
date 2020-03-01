@@ -2,7 +2,7 @@
 Portfolio showcasing some of my personal projects I have worked on.  
 For the development process I have mostly used Unity (game engine) and coded in C#.  
 
-### Car Park Mania - *Currently working on*
+## Car Park Mania - *Currently working on*
 *About*  
 The aim of the project is to get more familiar with the game engine and to progress my skills, going through all the steps of making it and at the end have a finished product that I am happy with.
 
@@ -23,7 +23,7 @@ The idea came from playing the game Unblock Me and the board game Rush Hour. I w
 
 link to github repo: https://github.com/Haraldur-Dadi/CarParkMania
   
-### PinballFall
+## PinballFall
 *About*  
 The aim of the project was to get familiar with mobile game development and of course progress my skils.  
 
