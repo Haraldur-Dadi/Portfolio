@@ -76,6 +76,7 @@ The game is a mobile rpg game where you play as a knight that has been tasked wi
 
 ## My first project  
 *About*  
+This was my starting project for getting to learn Unity and programmin in C#.
 
 *Short gif from the game*  
 <img src="/docs/My_first_game_video.gif" height="400">
