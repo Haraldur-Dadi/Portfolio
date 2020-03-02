@@ -1,6 +1,7 @@
 # Portfolio  
 Portfolio showcasing some of my personal projects I have worked on.  
-For the development process I have mostly used Unity (game engine) and coded in C#.  
+For the development process I have mostly used Unity (game engine) and coded in C#.
+I've also used Photoshop and a wacom drawing tablet for graphic design.  
 
 ## Car Park Mania - *Currently working on*
 *About*  
@@ -29,7 +30,6 @@ The aim of the project was to get familiar with mobile game development and of c
 
 The idea came from scrolling through the app store taking a look at what the big video game companies were doing. Most of the games had a pretty simple goal and a fairly easy game mechanichs that are easy to pick up. Then I remembered a game that I used to play when I was younger called Pinball. The game mechanics are pretty simple to pick up and the goal is simple, but it can create frustration that you don't have full control of where the ball goes.  
 
-*Game mechanics*  
 The goal is to score as many points in a level as possible. Score is gained from hitting obstaccles. You select where you want to drop the ball by pressing and moving your finger. To drop the ball you let go. At that point you can tilt your phone left and right to try and control the ball.
 
 *Short gif from the game*  
@@ -50,14 +50,22 @@ link to github repo: https://github.com/Haraldur-Dadi/PinballFall
 
 ## Island Adventures
 *About*  
+The idea came from watching youtube where someone was playing a new game called Forager. Forager is descriped as a open world, adventure and exploration game inspired by The Legend of Zelda infused with more modern titles such as Terraria, Stardew Valley & Minecraft by its creators.
 
-*Game mechanics*  
+Originally I wanted to make a remake of the game, but after week of development I wanted to add my touch to it. What I wanted to add was a strategy and a more of a base building element.
+
+The goal of the player is to survive as long as he can. In order to do that he must gather resources and build out his base. While playing the player can discover new islands with new resources to gather and enemies to fight against. 
 
 *Short gif from the game*  
+<img src="IslandAdventures_video.gif" height="400">
 
-*Thing I would like to add to the game  
-
-*Game development*  
+*Thing I would like to add to the game*  
+- Create different islands
+- Base building
+- Crafting system
+- Loot table
+- Save/ load system
+- and many more
 
 ## Knights2D  
 *About*  
@@ -65,7 +73,6 @@ This was the first game that I made where I tried creating something that I want
 
 The game is a mobile rpg game where you play as a knight that has been tasked with banishing evil from the lands. The player goes on quests, leveling, combating enemies, looting and everything that comes with a 'classic' rpg game.
 
-*Game mechanics*  
 User has buttons to control his movement and attack or block. There's a quick access bar at the bottom used for qunsumables and spells/skills.
 
 *Short gif from the game*  
