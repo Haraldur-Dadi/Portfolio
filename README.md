@@ -57,7 +57,7 @@ Originally I wanted to make a remake of the game, but after week of development 
 The goal of the player is to survive as long as he can. In order to do that he must gather resources and build out his base. While playing the player can discover new islands with new resources to gather and enemies to fight against. 
 
 *Short gif from the game*  
-<img src="IslandAdventures_video.gif" height="400">
+<img src="/docs/IslandAdventures_video.gif" height="400">
 
 *Thing I would like to add to the game*  
 - Create different islands
