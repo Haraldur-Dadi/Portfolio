@@ -58,7 +58,7 @@ link to github repo: https://github.com/Haraldur-Dadi/PinballFall
 *Short gif from the game*  
 <img src="IslandAdventures_video.gif" height="400">
 
-*Thing I would like to add to the game  
+*Thing I would like to add to the game*  
 
 
 *Game development*  
