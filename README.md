@@ -1,26 +1,31 @@
 # Portfolio  
 Portfolio showcasing some of my personal projects I have worked on.  
 For the development process I have mostly used Unity (game engine) and coded in C#.
-I've also used Photoshop and a wacom drawing tablet for graphic design.  
+I've also used Photoshop & Gimp with a wacom drawing tablet for graphic design.  
 
-## Car Park Mania - *Currently working on*
+## Traffic Jam Mania
 *About*  
-The aim of the project is to get more familiar with the game engine and to progress my skills, going through all the steps of making it and at the end have a finished product that I am happy with.
+The aim of the project was to get more familiar with the game engine, progress my skills going and going through the steps of development to a finished product that I am happy with. It's the first project that I've released and considered finished, although I see areas of improvements and further development.
 
 The idea came from playing the game Unblock Me and the board game Rush Hour. I wanted to create a unique theme and from experiencing/watching what happens when an emergency vehicle needs to go through traffic. They turn on the siren and lights and everyone gives way for the vehicle to pass. And with that in mind the goal of every level is to clear the path for the emergency vehicle to pass through.  
 
 *Short gif from the game*  
-<img src="/docs/CarParkMania_video.gif" height="400">
+<img src="/docs/TrafficJamMania_firstbuild_video.gif" height="400">
 - Title screen
 - Level selector
 - Tutorial
-- Levels
-- Redo/undo/reset feature (not shown in gif)
+- Casual game mode
+- Challenge game mode
+  - Ehere the goal is to clear the path with minimal moves.
+- Undo & reset feature
+- Store
+- Daily challanges
+- Daily spin
 
 *Things I would like to add to the game:*  
- - Different game modes, currently only have casual/standard  
-   - Mode where the goal is to clear the path in the shortes time.  
-   - Mode where the goal is to clear the path with minimal moves.  
+ - More game modes
+ - More levels
+ - More cars/skins
 
 link to github repo: https://github.com/Haraldur-Dadi/CarParkMania
   
