@@ -9,8 +9,12 @@ The aim of the project was to get more familiar with the game engine, progress m
 
 The idea came from playing the game Unblock Me and the board game Rush Hour. I wanted to create a unique theme and from experiencing/watching what happens when an emergency vehicle needs to go through traffic. They turn on the siren and lights and everyone gives way for the vehicle to pass. And with that in mind the goal of every level is to clear the path for the emergency vehicle to pass through.  
 
-*Short gif from the game*  
+*First build*
 <img src="/docs/TrafficJamMania_firstbuild_video.gif" height="400">
+
+*Version 1.0.0*
+<img src="/docs/TrafficJamMania-release-video.gif" height="400">
+
 - Title screen
 - Level selector
 - Tutorial
