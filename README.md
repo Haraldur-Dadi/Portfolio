@@ -10,6 +10,10 @@ The idea came about when I was scrolling through Instagram and saw a video of fr
 *Short gif from the game*  
 <img src="/docs/SlingThePuck_video.gif" height="400">
 
+- Local multiplayer
+- Single-player
+- Store
+
 *Links*  
 link to github repo: https://github.com/Haraldur-Dadi/Slingpuck  
 Apple: https://apps.apple.com/app/id1528606923  
@@ -31,6 +35,7 @@ The idea came from playing the game Unblock Me and the board game Rush Hour. I w
 - Challenge game mode (Where the goal is to clear the path with minimal moves. )
 - Undo & reset feature
 - Store
+- Achivements
 - Daily challanges
 - Daily spin
 - Tutorial
