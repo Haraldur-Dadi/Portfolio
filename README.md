@@ -3,16 +3,16 @@ Portfolio showcasing some of my personal projects I have worked on.
 For the development process I have mostly used Unity (game engine) and coded in C#.
 I've also used Photoshop & Gimp with a wacom drawing tablet for graphic design.  
 
-## Sling The Puck
-*About*
+## Sling The Puck  
+*About*  
 The idea came about when I was scrolling through Instagram and saw a video of friends playing a board game. They looked to really enjoy themselves and I thought the game seemed fun and competitive. After prototyping the game I tried it with friends and family and everyone enjoyed it. I decided that I would continue developing and polishing it and ended up releasing it for Android and IOS. 
 
-*Short gif from the game*
+*Short gif from the game*  
 <img src="/docs/SlingThePuck_video.gif" height="400">
 
-*Links*
-link to github repo: https://github.com/Haraldur-Dadi/Slingpuck
-Apple: https://apps.apple.com/app/id1528606923
+*Links*  
+link to github repo: https://github.com/Haraldur-Dadi/Slingpuck  
+Apple: https://apps.apple.com/app/id1528606923  
 Android: https://play.google.com/store/apps/details?id=com.HaraldurDadiThorvaldsson.SlingThePuck
 
 ## Traffic Jam Mania
