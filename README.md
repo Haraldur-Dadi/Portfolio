@@ -15,7 +15,7 @@ link to github repo: https://github.com/Haraldur-Dadi/Slingpuck
 Apple: https://apps.apple.com/app/id1528606923  
 Android: https://play.google.com/store/apps/details?id=com.HaraldurDadiThorvaldsson.SlingThePuck
 
-## Traffic Jam Mania
+## Traffic Jam Mania  
 *About*  
 The aim of the project was to get more familiar with the game engine, progress my skills going and going through the steps of development to a finished product that I am happy with. It's the first project that I've released and considered finished, although I see areas of improvements and further development.
 
@@ -27,16 +27,13 @@ The idea came from playing the game Unblock Me and the board game Rush Hour. I w
 *Version 1.0.0*  
 <img src="/docs/TrafficJamMania-release-video.gif" height="400">
 
-- Title screen
-- Level selector
-- Tutorial
 - Casual game mode
-- Challenge game mode
-  - Where the goal is to clear the path with minimal moves.
+- Challenge game mode (Where the goal is to clear the path with minimal moves. )
 - Undo & reset feature
 - Store
 - Daily challanges
 - Daily spin
+- Tutorial
 
 *Things I would like to add to the game:*  
  - More game modes
@@ -44,11 +41,11 @@ The idea came from playing the game Unblock Me and the board game Rush Hour. I w
  - More cars/skins
 
 *Links*
-link to github repo: https://github.com/Haraldur-Dadi/CarParkMania
-Apple: https://apps.apple.com/app/id1504303172
-Android: https://play.google.com/store/apps/details?id=com.HaraldurThorvaldsson.TrafficJamMania
+link to github repo: https://github.com/Haraldur-Dadi/CarParkMania  
+Apple: https://apps.apple.com/app/id1504303172  
+Android: https://play.google.com/store/apps/details?id=com.HaraldurThorvaldsson.TrafficJamMania  
 
-## PinballFall
+## PinballFall  
 *About*  
 The aim of the project was to get familiar with mobile game development and of course progress my skils.  
 
