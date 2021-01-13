@@ -1,7 +1,7 @@
 # Portfolio  
 Portfolio showcasing some of my personal projects I have worked on.  
-For the development process I have mostly used Unity (game engine) and coded in C#.
-I've also used Photoshop & Gimp with a wacom drawing tablet for graphic design.  
+For the development process I have mostly used Unity 3D and coded in C#.
+For graphic design I've used Photoshop & Gimp and music using FL Studio & Audacity.  
 
 ## Sling The Puck  
 *About*  
@@ -16,6 +16,7 @@ The idea came about when I was scrolling through Instagram and saw a video of fr
 
 *Links*  
 link to github repo: https://github.com/Haraldur-Dadi/Slingpuck  
+music: https://soundcloud.com/hallisound/sling-the-puck
 Apple: https://apps.apple.com/app/id1528606923  
 Android: https://play.google.com/store/apps/details?id=com.HaraldurDadiThorvaldsson.SlingThePuck
 
@@ -47,6 +48,7 @@ The idea came from playing the game Unblock Me and the board game Rush Hour. I w
 
 *Links*
 link to github repo: https://github.com/Haraldur-Dadi/CarParkMania  
+music: https://soundcloud.com/hallisound/traffic-jam-mania
 Apple: https://apps.apple.com/app/id1504303172  
 Android: https://play.google.com/store/apps/details?id=com.HaraldurThorvaldsson.TrafficJamMania  
 
