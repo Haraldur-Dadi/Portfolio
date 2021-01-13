@@ -3,6 +3,18 @@ Portfolio showcasing some of my personal projects I have worked on.
 For the development process I have mostly used Unity (game engine) and coded in C#.
 I've also used Photoshop & Gimp with a wacom drawing tablet for graphic design.  
 
+## Sling The Puck
+*About*
+The idea came about when I was scrolling through Instagram and saw a video of friends playing a board game. They looked to really enjoy themselves and I thought the game seemed fun and competitive. After prototyping the game I tried it with friends and family and everyone enjoyed it. I decided that I would continue developing and polishing it and ended up releasing it for Android and IOS. 
+
+*Short gif from the game*
+<img src="/docs/SlingThePuck_video.gif" height="400">
+
+*Links*
+link to github repo: https://github.com/Haraldur-Dadi/Slingpuck
+Apple: https://apps.apple.com/app/id1528606923
+Android: https://play.google.com/store/apps/details?id=com.HaraldurDadiThorvaldsson.SlingThePuck
+
 ## Traffic Jam Mania
 *About*  
 The aim of the project was to get more familiar with the game engine, progress my skills going and going through the steps of development to a finished product that I am happy with. It's the first project that I've released and considered finished, although I see areas of improvements and further development.
@@ -20,7 +32,7 @@ The idea came from playing the game Unblock Me and the board game Rush Hour. I w
 - Tutorial
 - Casual game mode
 - Challenge game mode
-  - Ehere the goal is to clear the path with minimal moves.
+  - Where the goal is to clear the path with minimal moves.
 - Undo & reset feature
 - Store
 - Daily challanges
@@ -31,8 +43,11 @@ The idea came from playing the game Unblock Me and the board game Rush Hour. I w
  - More levels
  - More cars/skins
 
+*Links*
 link to github repo: https://github.com/Haraldur-Dadi/CarParkMania
-  
+Apple: https://apps.apple.com/app/id1504303172
+Android: https://play.google.com/store/apps/details?id=com.HaraldurThorvaldsson.TrafficJamMania
+
 ## PinballFall
 *About*  
 The aim of the project was to get familiar with mobile game development and of course progress my skils.  
